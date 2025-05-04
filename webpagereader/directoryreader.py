@@ -1,3 +1,5 @@
+## here we dont have the openai key that is why it is not working 
+
 from llama_index.core import SimpleDirectoryReader
 from llama_index.core import VectorStoreIndex 
 
